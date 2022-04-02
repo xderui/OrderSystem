@@ -1,5 +1,7 @@
 # README
 
+## Chinese
+
 *此项目写成于2020年6月，由于有一段时间了，具体细节就没有当时记得那么清楚*
 
 此项目为使用C++实现的一个在线订餐系统，数据库使用的是Mysql，如果不懂mysql可以先学习这方面的内容，东西不多，基础内容很快就能学完！
@@ -32,7 +34,7 @@
 
 
 
-
+## English
 
 *This project was written in June 2020, but since it's been a while, the details are not as clear as they were then*
 
